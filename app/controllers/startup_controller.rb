@@ -1,4 +1,4 @@
 class StartupController < ApplicationController
-  root 'startup#index'
+  def index
   end
 end
